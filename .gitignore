@@ -1,0 +1,7 @@
+# Security: Never commit secret keys or environment files
+samzunbot-6a8b48c99ec9.json
+.env
+
+# Python cache
+__pycache__/
+*.pyc
